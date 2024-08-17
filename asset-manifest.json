@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/fireworks/static/css/main.1440fa27.css",
+    "main.js": "/fireworks/static/js/main.f0bd9674.js",
+    "static/js/453.5c49ac88.chunk.js": "/fireworks/static/js/453.5c49ac88.chunk.js",
+    "index.html": "/fireworks/index.html",
+    "main.1440fa27.css.map": "/fireworks/static/css/main.1440fa27.css.map",
+    "main.f0bd9674.js.map": "/fireworks/static/js/main.f0bd9674.js.map",
+    "453.5c49ac88.chunk.js.map": "/fireworks/static/js/453.5c49ac88.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1440fa27.css",
+    "static/js/main.f0bd9674.js"
+  ]
+}
